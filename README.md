@@ -44,7 +44,7 @@ Snake-Game/
 
 ## 🚀 How to Run
 
-Since this project uses Python's standard library, no external installation (pip install) is required.
+Since this project uses Python's standard library, no external installation (`pip install`) is required.
 
   1. Clone the repository
      ```text
