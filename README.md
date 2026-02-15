@@ -1,16 +1,16 @@
-# 🐍 Classic Snake - MVC Architecture
+# Classic Snake - MVC Architecture
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Architecture](https://img.shields.io/badge/Architecture-MVC%20Pattern-green?style=for-the-badge)
 ![Library](https://img.shields.io/badge/Library-Turtle-orange?style=for-the-badge)
 
-## 📖 About The Project
+## About The Project
 
 This is a modern implementation of the classic **Snake** arcade game, built with Python.
 
 While Snake is a common beginner project, this repository focuses on **Clean Code principles** and **Software Architecture**. Instead of a monolithic script, the application is structured using the **Model-View-Controller (MVC)** pattern to ensure strict separation of concerns between game logic, rendering, and input handling.
 
-### ✨ Key Features
+### Key Features
 * **Dynamic Difficulty:** The game speed automatically increases as the player's score grows.
 * **Clean UI:** Custom-built grid and rendering engine using Python's `turtle` library.
 * **State Management:** robust game loop handling start, pause, and game-over states.
@@ -18,7 +18,7 @@ While Snake is a common beginner project, this repository focuses on **Clean Cod
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The project is structured to demonstrate modular software design:
 
@@ -42,7 +42,7 @@ Snake-Game/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Since this project uses Python's standard library, no external installation (`pip install`) is required.
 
@@ -61,15 +61,9 @@ Since this project uses Python's standard library, no external installation (`pi
 
 ---
 
-## 🕹️ Controls
+## Controls
 
 * Arrow Keys: Change direction (Up, Down, Left, Right).
 * Mouse Click: Start the game or Restart after Game Over.
-
----
-
-## 👨‍💻 Author
-
-Louis Müller
 
 <p align="right">(<a href="#top">back to top</a>)</p>
